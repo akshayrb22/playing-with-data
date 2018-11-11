@@ -1,4 +1,4 @@
-# playing_with_data
+# playing-with-data
 
 This repo is a playground for various data science operations that one may want to implement. Anything from basic data manipulation operations to complex algortithms can be implemented here. 
 
